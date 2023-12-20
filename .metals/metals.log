@@ -10,3 +10,17 @@ Dec 19, 2023 11:10:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 1950
 Dec 19, 2023 11:48:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 2946
+Dec 19, 2023 11:54:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3287
+Dec 19, 2023 12:09:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5048
+Dec 19, 2023 12:37:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6029
+2023.12.19 12:46:32 INFO  Shutting down server
+2023.12.19 12:46:32 INFO  shutting down Metals
+2023.12.19 12:46:32 INFO  Exiting server
+2023.12.20 10:47:05 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\gopal\OneDrive\Desktop\Malapaka_Internship\Scala' for client Visual Studio Code 1.85.1.
+Dec 20, 2023 10:47:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.12.20 10:47:06 WARN  Build server is not auto-connectable.
+2023.12.20 10:47:06 WARN  no build tool detected in workspace 'C:\Users\gopal\OneDrive\Desktop\Malapaka_Internship\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
