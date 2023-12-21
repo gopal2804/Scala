@@ -28,3 +28,9 @@ INFO: Unsupported notification method: $/setTrace
 2023.12.20 11:58:31 INFO  shutting down Metals
 2023.12.20 11:58:31 INFO  Exiting server
 2023.12.21 10:16:04 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\gopal\OneDrive\Desktop\Malapaka_Internship\Scala' for client Visual Studio Code 1.85.1.
+2023.12.21 10:16:05 WARN  Build server is not auto-connectable.
+2023.12.21 10:16:05 WARN  no build tool detected in workspace 'C:\Users\gopal\OneDrive\Desktop\Malapaka_Internship\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 21, 2023 10:17:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 103
+Dec 21, 2023 10:46:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
